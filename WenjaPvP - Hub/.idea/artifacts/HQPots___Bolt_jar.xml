@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HQPots - Bolt:jar">
+    <output-path>C:/Development/Plugins.rar/Plugins.rar/Server/plugins</output-path>
+    <root id="archive" name="HQPots - Bolt.jar">
+      <element id="module-output" name="HQPots - Bolt" />
+    </root>
+  </artifact>
+</component>

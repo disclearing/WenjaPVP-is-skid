@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Map1/HQPOTS - HCF/libs/paperspigot-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Map1/HQPOTS - HCF/libs/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Map1/HQPOTS - HCF/libs/trove-3.1a1-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Map1/HQPOTS - HCF/libs/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/PermissionsEx-1.23.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Pictures/Screenshots/plugins/EssentialsX-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/Depend/lombok-1.16.6.jar"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/Server/paperspigot.jar"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/Server/plugins/WorldEdit/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/Server/plugins/WorldEdit/Pathogen.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

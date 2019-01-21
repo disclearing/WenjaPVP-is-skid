@@ -1,0 +1,18 @@
+BOOK_MESSAGE:
+ - 'config'
+ - 'config'
+ - 'config'
+ - 'config'
+ - 'config'
+ - 'config'
+ - 'config'
+ - 'config'
+ - 'config'
+ - 'config'
+ITEM1.BOOK: "&d&lServer Updates"
+ITEM1.ENDERPEARL: "&d&lEnder Butt"
+ITEM.WATCH: "&d&lServer Selector"
+GUI.NAME.1: "&d&LHardCore Factions"
+GUI.NAME.2: "&d&lHardCore KitMap"
+GUI.NAME.3: "&d&lKohiSG"
+GUI.NAME.HEADER: "&d&lServer Selector"

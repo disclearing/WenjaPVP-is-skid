@@ -1,0 +1,6 @@
+name: Lobby
+version: 1.0
+main: org.hqpots.bolt.Bolt
+author: Slurpeh, Mason
+commands:
+  setspawn:

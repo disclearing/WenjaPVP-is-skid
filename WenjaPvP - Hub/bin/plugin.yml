@@ -1,0 +1,4 @@
+name: Lobby
+version: 0.1 -STABLE
+main: org.hqpots.bolt.Bolt
+author: Mason
