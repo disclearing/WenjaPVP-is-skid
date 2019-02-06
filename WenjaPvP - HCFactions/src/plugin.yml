@@ -5,7 +5,6 @@ author: DoctorDark, Mason
 main: server.wenjapvp.hcf.HCF
 softdepend: [ProtocolLib]
 commands:
-  hcf:
   spawn:
   enderdragon:
   hub:
@@ -20,65 +19,65 @@ commands:
   hcfhelp:
       aliases: [help, ehelp]
   conquest:
-    description: Command used to handle Conquest events.
+    description: command used to handle conquest events.
   economy:
     aliases: [$, bal, money, eco, econ]
-    description: Command used to modify the economy.
+    description: command used to modify the economy.
   eotw:
     aliases: [endoftheworld]
-    description: Sets if the server is in End of the World mode.
+    description: sets if the server is in end of the world mode.
   event:
-    description: Command used to manage minigame events.
+    description: command used to manage minigame events.
   faction:
     aliases: [f, fac]
-    description: Faction related commands.
+    description: faction related commands.
   gopple:
-    description: Command to check remaining OP apple cooldown time.
+    description: command to check remaining op apple cooldown time.
     aliases: [opple, goppletimer, goppletime, oppletimer, oppletime]
   hcf:
     aliases: [hardcorefactions, hcfactions]
   koth:
-    description: Make or delete KotH arenas.
+    description: make or delete koth arenas.
   lives:
-    description: Management of lives or deathbans.
+    description: management of lives or deathbans.
   location:
     aliases: [loc]
-    description: Check the faction location of a player.
+    description: check the faction location of a player.
   logout:
     aliases: [disconnect]
-    description: Command to safely logout without an NPC spawning.
+    description: command to safely logout without an npc spawning.
   mapkit:
     aliases: [viewkit]
-    description: Used to check the current map restrictions.
+    description: used to check the current map restrictions.
   pay:
     aliases: [p2p]
-    description: Allow players to pay money.
+    description: allow players to pay money.
   pvptimer:
     aliases: [pvp]
-    description: Command to enable or disable pvp timer protection.
+    description: command to enable or disable pvp timer protection.
   regen:
-    description: Check ETA until a faction is able to regenerate DTR.
+    description: check eta until a faction is able to regenerate dtr.
   servertime:
-    description: Checks the date and time of server.
+    description: checks the date and time of server.
   sotw:
     aliases: [startoftheworld]
-    description: Command used to manage start of the world.
+    description: command used to manage start of the world.
   spawncannon:
     aliases: [cannon, playercannon]
-    description: Shoots you into the warzone.
+    description: shoots you into the warzone.
   staffrevive:
-    description: Command used by staff to revive players.
+    description: command used by staff to revive players.
   timer:
-    description: Command to manage timers.
+    description: command to manage timers.
   togglebroadcasts:
     aliases: [tb]
-    description: Toggle found diamond ore notifications.
+    description: toggle found diamond ore notifications.
   togglecapzoneentry:
     aliases: [togglecapentry]
-    description: Command used to hide or show capture zone entry messages.
+    description: command used to hide or show capture zone entry messages.
   togglelightning:
     aliases: [lightningtoggle, togglestrikes]
-    description: Toggles the lightning strikes for when a player dies.
+    description: toggles the lightning strikes for when a player dies.
   togglesidebar:
     aliases: [sidebartoggle, sidebar, hud, togglehud]
-    description: Toggles the scoreboard timers displayed on sidebar.
+    description: toggles the scoreboard timers displayed on sidebar.

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Export">
+    <CLASSES>
+      <root url="jar://F:/Dev shit/Plugin Depends/IHCF/EXPORT-Trove4J-3.0.3.jar!/" />
+      <root url="jar://F:/Dev shit/Plugin Depends/IHCF/EXPORT-OWLAP-IMPL-4.0.0.jar!/" />
+      <root url="jar://F:/Dev shit/Plugin Depends/IHCF/EXPORT-Guava-21.0.jar!/" />
+      <root url="jar://F:/Dev shit/Plugin Depends/IHCF/EXPORT-Commons-Lang-3.jar!/" />
+      <root url="jar://F:/Dev shit/Plugin Depends/IHCF/EXPORT-Commons-Collections-4.41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Dev shit/Plugin Depends/IHCF/EXPORT-OWLAP-IMPL-4.0.0.jar!/" />
+      <root url="jar://F:/Dev shit/Plugin Depends/IHCF/EXPORT-Commons-Lang-3.jar!/" />
+    </SOURCES>
+  </library>
+</component>
